@@ -2,9 +2,9 @@ import styles from './header.module.css';
 
 const Header = () => {
     return (
-        <hrader>
+        <header>
             <h1 className={styles.title}>This is header</h1>
-        </hrader>
+        </header>
     )
 }
 export default Header;
